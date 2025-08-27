@@ -1,0 +1,15 @@
+{
+  "name": "03-mario-kart-project",
+  "version": "1.0.0",
+  "description": "A Mario Kart racing simulator built with Node.js",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pedro Henrique Silva Arnaut",
+  "license": "MIT"
+}
