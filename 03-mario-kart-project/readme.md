@@ -163,7 +163,7 @@
 
 ---
 
-📌 Repositório oficial do Treinamento **NODE.JS**: [Simulador Mario Kart](https://github.com/Lil-PH/nodejs-formation/tree/main/03-mario-kart-project)
+📌 Repositório oficial do Treinamento **NODE.JS**: [Simulador Mario Kart](https://github.com/Lil-PH/mario-kart-project)
 
 ---
 <br>
